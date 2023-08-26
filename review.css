@@ -1,0 +1,21 @@
+.left{
+    width: 30%;
+    align-items: center;
+  
+}
+.right{
+    width:70%;
+    background-color: rgb(197, 199, 202);
+   
+   padding: 20px;
+   
+    
+}
+.but{
+    background-color: rgb(232, 118, 19);
+}
+.main{
+    display:inline-flex;
+    border:10px solid rgb(232, 118, 19);
+    width: 90%;
+}
