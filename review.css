@@ -1,13 +1,19 @@
 .left{
-    width: 30%;
+    width: 40%;
     align-items: center;
+
   
 }
+.left img {
+    width: 100%;
+    
+}
 .right{
-    width:70%;
+    width:60%;
     background-color: rgb(197, 199, 202);
    
-   padding: 20px;
+   padding: 13.64px;
+   
    
     
 }
@@ -16,6 +22,11 @@
 }
 .main{
     display:inline-flex;
-    border:10px solid rgb(232, 118, 19);
+    border:5px solid rgb(232, 118, 19);
     width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    
 }
